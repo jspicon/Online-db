@@ -1,0 +1,117 @@
+Appel : GET
+BEGIN POST
+BEGIN GET
+GET : rquest : challenge
+BEGIN REQUEST
+REQUEST : rquest : challenge
+END
+A : 
+B : 
+Appel : GET
+BEGIN POST
+BEGIN GET
+GET : rquest : challenge
+GET : challenge : fdsfjs
+BEGIN REQUEST
+REQUEST : rquest : challenge
+REQUEST : challenge : fdsfjs
+END
+A : fdsfjs
+B : fdsfjs
+Appel : GET
+BEGIN POST
+BEGIN GET
+GET : rquest : challenge
+GET : challenge : fdsfjs
+BEGIN REQUEST
+REQUEST : rquest : challenge
+REQUEST : challenge : fdsfjs
+END
+A : fdsfjs
+B : fdsfjs
+Appel : POST
+BEGIN POST
+POST : challenge : fdsfgdg
+BEGIN GET
+GET : rquest : challenge
+BEGIN REQUEST
+REQUEST : rquest : challenge
+REQUEST : challenge : fdsfgdg
+END
+A : fdsfgdg
+B : fdsfgdg
+Appel : GET
+BEGIN POST
+BEGIN GET
+GET : rquest : challenge
+BEGIN REQUEST
+REQUEST : rquest : challenge
+END
+A : 
+B : 
+Appel : GET
+BEGIN POST
+BEGIN GET
+GET : rquest : challenge
+GET : challenge : testdeChallenge
+BEGIN REQUEST
+REQUEST : rquest : challenge
+REQUEST : challenge : testdeChallenge
+END
+A : testdeChallenge
+B : testdeChallenge
+Appel : GET
+BEGIN POST
+BEGIN GET
+GET : rquest : challenge
+GET : challenge : 
+BEGIN REQUEST
+REQUEST : rquest : challenge
+REQUEST : challenge : 
+END
+A : 
+B : 
+Appel : GET
+BEGIN POST
+BEGIN GET
+GET : rquest : challenge
+GET : challenge : fdsgfdgfd
+BEGIN REQUEST
+REQUEST : rquest : challenge
+REQUEST : challenge : fdsgfdgfd
+END
+A : fdsgfdgfd
+B : fdsgfdgfd
+Appel : GET
+BEGIN POST
+BEGIN GET
+GET : rquest : challenge
+GET : challenge : fdsgfdgfd
+BEGIN REQUEST
+REQUEST : rquest : challenge
+REQUEST : challenge : fdsgfdgfd
+END
+A : fdsgfdgfd
+B : fdsgfdgfd
+Appel : GET
+BEGIN POST
+BEGIN GET
+GET : rquest : challenge
+GET : challenge : gezg
+BEGIN REQUEST
+REQUEST : rquest : challenge
+REQUEST : challenge : gezg
+END
+A : gezg
+B : gezg
+Appel : POST
+BEGIN POST
+POST : challenge : gezg
+BEGIN GET
+GET : rquest : challenge
+BEGIN REQUEST
+REQUEST : rquest : challenge
+REQUEST : challenge : gezg
+END
+A : gezg
+B : gezg
