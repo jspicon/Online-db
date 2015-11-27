@@ -1,0 +1,1 @@
+xcodebuild -workspace Objective-C/onLineDB/onLineDB.xcworkspace -scheme onLineDB -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
